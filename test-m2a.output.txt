@@ -1,0 +1,17 @@
+To use m2a
+1: translate a string
+2: view dictionary
+3: delete a string from dictionary
+4: exits
+> Enter string: Ascii is: hello world 
+> Enter string: Ascii is: bananas 
+> Enter string: Ascii is: apples 
+> Enter string: Ascii is: oranges 
+> --- .-. .- -. --. . ... / -> oranges 
+-... .- -. .- -. .- ... / -> bananas 
+.- .--. .--. .-.. . ... / -> apples 
+.... . .-.. .-.. --- / .-- --- .-. .-.. -.. / -> hello world 
+> Enter string to delete: > --- .-. .- -. --. . ... / -> oranges 
+-... .- -. .- -. .- ... / -> bananas 
+.- .--. .--. .-.. . ... / -> apples 
+> 

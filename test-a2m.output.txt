@@ -1,0 +1,17 @@
+To use a2m
+1: translate a string
+2: view dictionary
+3: delete a string from dictionary
+4: exits
+> Enter string: Morse is:  .... . .-.. .-.. --- / .-- --- .-. .-.. -.. / 
+> Enter string: Morse is:  -... .- -. .- -. .- ... / 
+> Enter string: Morse is:  .- .--. .--. .-.. . ... / 
+> Enter string: Morse is:  --- .-. .- -. --. . ... / 
+>               apples -> .- .--. .--. .-.. . ... / 
+             bananas -> -... .- -. .- -. .- ... / 
+         hello world -> .... . .-.. .-.. --- / .-- --- .-. .-.. -.. / 
+             oranges -> --- .-. .- -. --. . ... / 
+> Enter string to delete: >               apples -> .- .--. .--. .-.. . ... / 
+             bananas -> -... .- -. .- -. .- ... / 
+             oranges -> --- .-. .- -. --. . ... / 
+> 
